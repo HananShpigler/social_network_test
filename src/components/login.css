@@ -1,0 +1,35 @@
+.login {
+    background-color: rgb(82, 82, 245);
+    box-shadow: 30px 30px gold;
+    width: 400px;
+    padding: 20px;
+    border-radius: 16px;
+    margin: 150px auto;
+    font-size: 21px;
+    color: white;
+    text-align: center;
+}
+
+.login input,
+button {
+    width: 90%;
+    height: 36px;
+    box-sizing: border-box;
+    font-size: 21px;
+    margin: 20px;
+    background-color: gold;
+}
+
+.login button {
+    background-color: rgb(52, 134, 189);
+}
+
+.login .btnContainer {
+    font-size: 16px;
+}
+
+.login .btnContainer span {
+    color: gold;
+    font-weight: bold;
+    cursor: pointer;
+}
